@@ -2,3 +2,4 @@ web_scrap_env
 venv
 __pycache__
 *.csv
+.DS_Store
